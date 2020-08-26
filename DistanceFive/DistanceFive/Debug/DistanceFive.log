@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\DistanceFive\DistanceFive\Source.cpp(7,15): warning C4101: 'y': unreferenced local variable
+C:\Users\User\source\repos\DistanceFive\DistanceFive\Source.cpp(7,9): warning C4101: 'x': unreferenced local variable
+  DistanceFive.vcxproj -> C:\Users\User\source\repos\DistanceFive\Debug\DistanceFive.exe
