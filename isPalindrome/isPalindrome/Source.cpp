@@ -25,7 +25,7 @@ int main()
 	char word[99999];
 	scanf("%[^\n]", &word);
 	int n = strlen(word);
-	if (isPalin(n, word))	printf("%s : is palindrome", word);
+	if (n>0 && isPalin(n, word))	printf("%s : is palindrome", word);
 	else	printf("%s : is not palindrome", word);
 	return 0;
 }
